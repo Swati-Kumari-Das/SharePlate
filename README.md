@@ -23,7 +23,7 @@ A community-driven food sharing platform that connects people with surplus food 
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/your-username/shareplate.git
+git clone https://github.com/Swati-Kumari-Das/SharePlate.git
 2. Navigate to project directory:
 cd shareplate
 3. Install dependencies:
